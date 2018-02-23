@@ -3,8 +3,10 @@
 
 Algoritmo para análise produções gramaticais, remoção de produções inúteis, unitárias e vazias.
 
-* <h5>Tecnologias utilizadas e estudadas</h5>
+* <h5>Tecnologias e conceitos utilizados e estudados</h5>
   - JavaScript; <br />
+  - Gramáticas(níveis 0, 1, 2 e 3); <br />
+  - Regex. <br />
 
 <h6>@author: <a href="https://github.com/luandr">Luan Darabas</a> <br />
 @author: <a href="https://github.com/LuizAlexandre17">Luiz Alexandre</a> <br />
