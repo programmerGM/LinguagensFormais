@@ -1,7 +1,7 @@
 ## Trabalho universitário - Linguagens formais
 <h6>5ª fase - 2017/1</h6>
 
-Algoritmo para análise produções gramaticais, remoção de produções inúteis, unitárias e vazias.
+Algoritmo para análises gramaticais (remoção de produções inúteis, unitárias e vazias).
 
 * <h5>Tecnologias e conceitos utilizados e estudados</h5>
   - JavaScript; <br />
